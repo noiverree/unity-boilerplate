@@ -2,6 +2,9 @@ using System;
 
 namespace UnityBoilerplate.PublishSubscribe
 {
+    /// <summary>
+    /// Publish Subscribe design pattern.
+    /// </summary>
     public class PublishSubscribe
     {
         //==============================================================================

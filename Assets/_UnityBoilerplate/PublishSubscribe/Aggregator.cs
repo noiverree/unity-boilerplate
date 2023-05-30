@@ -7,7 +7,7 @@ namespace UnityBoilerplate.PublishSubscribe
     /// <summary>
     /// Aggregator for Publish Subscribe design pattern.
     /// </summary>
-    public class Aggregator : MonoBehaviour
+    public class Aggregator
     {
         //==============================================================================
         // Variables
